@@ -1,0 +1,45 @@
+{C:/Polito/Switching technologies for data center/lab1/5/SERIALIZER.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Polito/Switching technologies for data center/lab1/5/SERIALIZER.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity SERIALIZER
+-- Compiling architecture BEH of SERIALIZER
+
+} {} {}} {C:/Polito/Switching technologies for data center/lab1/5/serializer_tb.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Polito/Switching technologies for data center/lab1/5/serializer_tb.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity serializer_tb
+-- Compiling architecture beh of serializer_tb
+
+} {} {}} {C:/Polito/Switching technologies for data center/lab1/5/one_REG.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Polito/Switching technologies for data center/lab1/5/one_REG.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity one_REG
+-- Compiling architecture beh of one_REG
+
+} {} {}} {C:/Polito/Switching technologies for data center/lab1/5/MUX_2WAY.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Polito/Switching technologies for data center/lab1/5/MUX_2WAY.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity MUX_2WAY
+-- Compiling architecture beh of MUX_2WAY
+
+} {} {}} {C:/Polito/Switching technologies for data center/lab1/5/serial_tb.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Polito/Switching technologies for data center/lab1/5/serial_tb.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity serial_tb
+-- Compiling architecture TEST of serial_tb
+
+} {} {}}

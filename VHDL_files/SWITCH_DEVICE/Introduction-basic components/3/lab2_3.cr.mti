@@ -1,0 +1,22 @@
+{C:/Polito/Switching technologies for data center/lab1/3/MUX_4WAY.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Polito/Switching technologies for data center/lab1/3/MUX_4WAY.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity MUX_4WAY
+-- Compiling architecture beh of MUX_4WAY
+
+} {} {}} {C:/Polito/Switching technologies for data center/lab1/3/MUX_4WAY_tb.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Polito/Switching technologies for data center/lab1/3/MUX_4WAY_tb.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity MUX_4WAY_tb
+-- Compiling architecture TEST of MUX_4WAY
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading entity MUX_4WAY
+
+} {} {}}

@@ -1,0 +1,909 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Polito/Switching technologies for data center/lab1/2
+Econtrol_unit
+Z0 w1639145214
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Polito/Switching technologies for data center/lab1/5
+Z4 8C:/Polito/Switching technologies for data center/lab3/Control_Unit.vhd
+Z5 FC:/Polito/Switching technologies for data center/lab3/Control_Unit.vhd
+l0
+L4
+V;eXBb=Fk`TTX=ndcm6IJ^0
+!s100 `Pl1KIiCJkJXbW83P2K1a0
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1639145229
+!i10b 1
+Z8 !s108 1639145228.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Polito/Switching technologies for data center/lab3/Control_Unit.vhd|
+Z10 !s107 C:/Polito/Switching technologies for data center/lab3/Control_Unit.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Abeh
+R1
+R2
+DEx4 work 12 control_unit 0 22 ;eXBb=Fk`TTX=ndcm6IJ^0
+l49
+L15
+VZDOl81mYdcO]KE=BbM6[E2
+!s100 `_klUhd7<hEk2aWRFb5];3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Ecrossbar
+Z13 w1636124149
+Z14 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z15 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+R1
+R2
+R3
+Z16 8C:/Polito/Switching technologies for data center/LAB2/VHDL/crossbar.vhd
+Z17 FC:/Polito/Switching technologies for data center/LAB2/VHDL/crossbar.vhd
+l0
+L6
+VN[415^4PNZNWk_7OEX4Jf1
+!s100 G>_iK`@jc7C_1DhbAfM1?1
+R6
+32
+Z18 !s110 1639149395
+!i10b 1
+Z19 !s108 1639149395.000000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Polito/Switching technologies for data center/LAB2/VHDL/crossbar.vhd|
+Z21 !s107 C:/Polito/Switching technologies for data center/LAB2/VHDL/crossbar.vhd|
+!i113 1
+R11
+R12
+Abeh
+R14
+R15
+R1
+R2
+DEx4 work 8 crossbar 0 22 N[415^4PNZNWk_7OEX4Jf1
+l30
+L17
+V>[<g@29d8fGbe`7H^@7Xb0
+!s100 fm5dB[VZ:OW_BJUHFYOYG0
+R6
+32
+R18
+!i10b 1
+R19
+R20
+R21
+!i113 1
+R11
+R12
+Edecoder
+Z22 w1638192943
+R1
+R2
+R3
+Z23 8C:/Polito/Switching technologies for data center/lab3/Decoder.vhd
+Z24 FC:/Polito/Switching technologies for data center/lab3/Decoder.vhd
+l0
+L4
+V4XbZM1j95;Q?bVUen>aX00
+!s100 0gRh6lAkhUH^>G1mOGX@Z3
+R6
+32
+Z25 !s110 1639145228
+!i10b 1
+Z26 !s108 1639145227.000000
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Polito/Switching technologies for data center/lab3/Decoder.vhd|
+Z28 !s107 C:/Polito/Switching technologies for data center/lab3/Decoder.vhd|
+!i113 1
+R11
+R12
+Abeh
+R1
+R2
+DEx4 work 7 decoder 0 22 4XbZM1j95;Q?bVUen>aX00
+l13
+L12
+V<3S^_D5cGUOXeHDlaAk=N0
+!s100 dbDNK_FZUSVn;D_IHk^AN2
+R6
+32
+R25
+!i10b 1
+R26
+R27
+R28
+!i113 1
+R11
+R12
+Edeserializer
+Z29 w1637229966
+Z30 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R1
+R2
+R3
+Z31 8C:/Polito/Switching technologies for data center/lab1/5/deserializer.vhd
+Z32 FC:/Polito/Switching technologies for data center/lab1/5/deserializer.vhd
+l0
+L5
+VViIo=VPkQFN^_X^AnDNS;3
+!s100 RR9U0R^`8Sb3?;37EbTXo0
+R6
+32
+Z33 !s110 1639090010
+!i10b 1
+Z34 !s108 1639090010.000000
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Polito/Switching technologies for data center/lab1/5/deserializer.vhd|
+Z36 !s107 C:/Polito/Switching technologies for data center/lab1/5/deserializer.vhd|
+!i113 1
+R11
+R12
+Abeh
+R30
+R1
+R2
+DEx4 work 12 deserializer 0 22 ViIo=VPkQFN^_X^AnDNS;3
+l48
+L18
+VYTKV^0@4B2liBh7KY]]5V2
+!s100 ;Wbc;o9doHXYaWcGFXMao3
+R6
+32
+R33
+!i10b 1
+R34
+R35
+R36
+!i113 1
+R11
+R12
+Edeserializer_ctrl
+Z37 w1639144894
+R1
+R2
+R3
+Z38 8C:/Polito/Switching technologies for data center/lab3/deserializer_ctrl.vhd
+Z39 FC:/Polito/Switching technologies for data center/lab3/deserializer_ctrl.vhd
+l0
+L5
+VL8LBHC:nocTWon6C>JRMc1
+!s100 IM?31N3SfTZQCzoe=mUk=3
+R6
+32
+R25
+!i10b 1
+R8
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Polito/Switching technologies for data center/lab3/deserializer_ctrl.vhd|
+Z41 !s107 C:/Polito/Switching technologies for data center/lab3/deserializer_ctrl.vhd|
+!i113 1
+R11
+R12
+Abeh
+R1
+R2
+DEx4 work 17 deserializer_ctrl 0 22 L8LBHC:nocTWon6C>JRMc1
+l25
+L14
+V[ib1CbL;T9cd^`aO>`=TV3
+!s100 Y`=7<Ag=zblfKbkAj82=Q3
+R6
+32
+R25
+!i10b 1
+R8
+R40
+R41
+!i113 1
+R11
+R12
+Edeserializer_tb
+Z42 w1639088789
+R1
+R2
+R3
+Z43 8C:/Polito/Switching technologies for data center/lab1/5/deserializer_tb.vhd
+Z44 FC:/Polito/Switching technologies for data center/lab1/5/deserializer_tb.vhd
+l0
+L4
+VG?CSk2VgF6TQ<4K;lH:SF2
+!s100 8g6zcD1LF9?D<Z9joKO_A3
+R6
+32
+R33
+!i10b 1
+R34
+Z45 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Polito/Switching technologies for data center/lab1/5/deserializer_tb.vhd|
+Z46 !s107 C:/Polito/Switching technologies for data center/lab1/5/deserializer_tb.vhd|
+!i113 1
+R11
+R12
+Atest
+R1
+R2
+DEx4 work 15 deserializer_tb 0 22 G?CSk2VgF6TQ<4K;lH:SF2
+l26
+L8
+V[8PR=eWJBK^H@78mNAcNY3
+!s100 6KeaNFV4G0jNeln3<JAT^2
+R6
+32
+R33
+!i10b 1
+R34
+R45
+R46
+!i113 1
+R11
+R12
+Eencoder
+Z47 w1638192981
+R1
+R2
+R3
+Z48 8C:/Polito/Switching technologies for data center/lab3/Encoder.vhd
+Z49 FC:/Polito/Switching technologies for data center/lab3/Encoder.vhd
+l0
+L4
+VY5cnR2]INZ]8O0>7T0oUH1
+!s100 j@_Y42I;cL2l`8IN]ajdL1
+R6
+32
+R25
+!i10b 1
+R8
+Z50 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Polito/Switching technologies for data center/lab3/Encoder.vhd|
+Z51 !s107 C:/Polito/Switching technologies for data center/lab3/Encoder.vhd|
+!i113 1
+R11
+R12
+Abeh
+R1
+R2
+DEx4 work 7 encoder 0 22 Y5cnR2]INZ]8O0>7T0oUH1
+l13
+L11
+VZMf:23K>I:ln[4[8iU><m0
+!s100 UL3TS>?ZhgWY5QNie6:@V0
+R6
+32
+R25
+!i10b 1
+R8
+R50
+R51
+!i113 1
+R11
+R12
+Efifo
+Z52 w1638545858
+R1
+R2
+R3
+Z53 8C:/Polito/Switching technologies for data center/LAB2/VHDL/fifo.vhd
+Z54 FC:/Polito/Switching technologies for data center/LAB2/VHDL/fifo.vhd
+l0
+L43
+VU3ZZ<HCKz]W79lCabYWMc2
+!s100 99RkJ2kU:RJ7>50MW1HDX2
+R6
+32
+R18
+!i10b 1
+Z55 !s108 1639149394.000000
+Z56 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Polito/Switching technologies for data center/LAB2/VHDL/fifo.vhd|
+Z57 !s107 C:/Polito/Switching technologies for data center/LAB2/VHDL/fifo.vhd|
+!i113 1
+R11
+R12
+Asyn
+R1
+R2
+DEx4 work 4 fifo 0 22 U3ZZ<HCKz]W79lCabYWMc2
+l95
+L59
+VcW2NK?WiP@zEN<cS6WA<92
+!s100 E>U6^EE2Y7ZY8Q`XnI@9B1
+R6
+32
+R18
+!i10b 1
+R55
+R56
+R57
+!i113 1
+R11
+R12
+Efifo_tb
+Z58 w1639148355
+R1
+R2
+R3
+Z59 8C:/Polito/Switching technologies for data center/LAB2/VHDL/fifo_tb.vhd
+Z60 FC:/Polito/Switching technologies for data center/LAB2/VHDL/fifo_tb.vhd
+l0
+L5
+V?_90P[CiB]d@_DK3aKnZ42
+!s100 VGeo4j<@o]M3D6DTSOQT31
+R6
+32
+Z61 !s110 1639149044
+!i10b 1
+Z62 !s108 1639149044.000000
+Z63 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Polito/Switching technologies for data center/LAB2/VHDL/fifo_tb.vhd|
+Z64 !s107 C:/Polito/Switching technologies for data center/LAB2/VHDL/fifo_tb.vhd|
+!i113 1
+R11
+R12
+Atest
+R1
+R2
+DEx4 work 7 fifo_tb 0 22 ?_90P[CiB]d@_DK3aKnZ42
+l29
+L8
+VCQ2k<N]^:eKi?EHfgi=Zi2
+!s100 m5EO?kZzlaNS<:Q^7b6J33
+R6
+32
+R61
+!i10b 1
+R62
+R63
+R64
+!i113 1
+R11
+R12
+Ematrixarbiter
+Z65 w1638192905
+R1
+R2
+R3
+Z66 8C:/Polito/Switching technologies for data center/lab3/matrixarbiter.vhd
+Z67 FC:/Polito/Switching technologies for data center/lab3/matrixarbiter.vhd
+l0
+L6
+VB73_cgd9<TAzJ=I;J1ig92
+!s100 _Pg:Da1h?dzd]2UP3I_NK2
+R6
+32
+R25
+!i10b 1
+R8
+Z68 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Polito/Switching technologies for data center/lab3/matrixarbiter.vhd|
+Z69 !s107 C:/Polito/Switching technologies for data center/lab3/matrixarbiter.vhd|
+!i113 1
+R11
+R12
+Abehavior
+R1
+R2
+DEx4 work 13 matrixarbiter 0 22 B73_cgd9<TAzJ=I;J1ig92
+l33
+L16
+VGRZALH0N<ICK]e5K98@GQ0
+!s100 F^IMTgSj4c[Kai^YUkn<U1
+R6
+32
+R25
+!i10b 1
+R8
+R68
+R69
+!i113 1
+R11
+R12
+Emux_2way
+Z70 w1637331866
+R14
+R15
+R1
+R2
+R3
+Z71 8C:/Polito/Switching technologies for data center/lab1/5/MUX_2WAY.vhd
+Z72 FC:/Polito/Switching technologies for data center/lab1/5/MUX_2WAY.vhd
+l0
+L5
+VXiIimC?]5azJ5Cd2fgaWj2
+!s100 ha=kANzX`djM:Tz_^c5Tm2
+R6
+32
+Z73 !s110 1637334927
+!i10b 1
+Z74 !s108 1637334927.000000
+Z75 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Polito/Switching technologies for data center/lab1/5/MUX_2WAY.vhd|
+Z76 !s107 C:/Polito/Switching technologies for data center/lab1/5/MUX_2WAY.vhd|
+!i113 1
+R11
+R12
+Abeh
+R14
+R15
+R1
+R2
+DEx4 work 8 mux_2way 0 22 XiIimC?]5azJ5Cd2fgaWj2
+l19
+L14
+VH1MBL90O9be;XOU[QK5oH2
+!s100 <G=n:jKzXZQ`Rjo5E5cEP1
+R6
+32
+R73
+!i10b 1
+R74
+R75
+R76
+!i113 1
+R11
+R12
+Emux_4way
+Z77 w1636123395
+R14
+R15
+R1
+R2
+R3
+Z78 8C:/Polito/Switching technologies for data center/LAB2/VHDL/MUX_4WAY.vhd
+Z79 FC:/Polito/Switching technologies for data center/LAB2/VHDL/MUX_4WAY.vhd
+l0
+L5
+VkURfYj<UZXV57VZGk[5e]0
+!s100 hzJS_g7A>=CmmkPG5bC@j3
+R6
+32
+R18
+!i10b 1
+R19
+Z80 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Polito/Switching technologies for data center/LAB2/VHDL/MUX_4WAY.vhd|
+Z81 !s107 C:/Polito/Switching technologies for data center/LAB2/VHDL/MUX_4WAY.vhd|
+!i113 1
+R11
+R12
+Abeh
+R14
+R15
+R1
+R2
+DEx4 work 8 mux_4way 0 22 kURfYj<UZXV57VZGk[5e]0
+l19
+L14
+VRnYV@lYbI85IEQM^]VK=63
+!s100 4T]J3@kGDlJNem2?6dF1n0
+R6
+32
+R18
+!i10b 1
+R19
+R80
+R81
+!i113 1
+R11
+R12
+Eone_reg
+Z82 w1635672032
+R30
+R1
+R2
+R3
+Z83 8C:/Polito/Switching technologies for data center/lab1/5/one_REG.vhd
+Z84 FC:/Polito/Switching technologies for data center/lab1/5/one_REG.vhd
+l0
+L5
+V]jTI3Q]<^[[an9eec;1AN3
+!s100 n9?YR6_a3C89<:]6O;^TM1
+R6
+32
+Z85 !s110 1637334926
+!i10b 1
+Z86 !s108 1637334926.000000
+Z87 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Polito/Switching technologies for data center/lab1/5/one_REG.vhd|
+Z88 !s107 C:/Polito/Switching technologies for data center/lab1/5/one_REG.vhd|
+!i113 1
+R11
+R12
+Abeh
+R30
+R1
+R2
+DEx4 work 7 one_reg 0 22 ]jTI3Q]<^[[an9eec;1AN3
+l15
+L14
+VW;^iRTI`;GRC9:l`UQ_WP1
+!s100 lVz1YXMeKm3T_i58K`A:@3
+R6
+32
+R85
+!i10b 1
+R86
+R87
+R88
+!i113 1
+R11
+R12
+Erd_block
+Z89 w1638213012
+R1
+R2
+R3
+Z90 8C:/Polito/Switching technologies for data center/LAB2/VHDL/RD_BLOCK.vhd
+Z91 FC:/Polito/Switching technologies for data center/LAB2/VHDL/RD_BLOCK.vhd
+l0
+L6
+V5RRm2cm<NXD1AaBFhT[d=0
+!s100 FH@z13UcT3E1V[k0;5cm61
+R6
+32
+R18
+!i10b 1
+R19
+Z92 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Polito/Switching technologies for data center/LAB2/VHDL/RD_BLOCK.vhd|
+Z93 !s107 C:/Polito/Switching technologies for data center/LAB2/VHDL/RD_BLOCK.vhd|
+!i113 1
+R11
+R12
+Abeh
+R1
+R2
+DEx4 work 8 rd_block 0 22 5RRm2cm<NXD1AaBFhT[d=0
+l31
+L18
+VlgR?aB_a=9PAGoz<jo8h@3
+!s100 cPYoE0L>V=eU`?a>oQg]e1
+R6
+32
+R18
+!i10b 1
+R19
+R92
+R93
+!i113 1
+R11
+R12
+Erd_block_tb
+Z94 w1637837180
+R1
+R2
+R3
+Z95 8C:/Polito/Switching technologies for data center/LAB2/VHDL/RD_BLOCK_tb.vhd
+Z96 FC:/Polito/Switching technologies for data center/LAB2/VHDL/RD_BLOCK_tb.vhd
+l0
+L5
+VakS`YSZo8H2SVoU0@PQDo1
+!s100 BD9?eh[R_z;2g1gXJjXcb3
+R6
+32
+R18
+!i10b 1
+R19
+Z97 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Polito/Switching technologies for data center/LAB2/VHDL/RD_BLOCK_tb.vhd|
+Z98 !s107 C:/Polito/Switching technologies for data center/LAB2/VHDL/RD_BLOCK_tb.vhd|
+!i113 1
+R11
+R12
+Atest
+R1
+R2
+DEx4 work 11 rd_block_tb 0 22 akS`YSZo8H2SVoU0@PQDo1
+l23
+L8
+Vh=V8^6jIeCkZ]iCK:FXJ43
+!s100 @db3LW[8@UhfI@@P345YD3
+R6
+32
+R18
+!i10b 1
+R19
+R97
+R98
+!i113 1
+R11
+R12
+Ereg_tb
+w1635669949
+R1
+R2
+R3
+Z99 8C:/Polito/Switching technologies for data center/lab1/5/serial_tb.vhd
+Z100 FC:/Polito/Switching technologies for data center/lab1/5/serial_tb.vhd
+l0
+L4
+V1NfVlD6zUomGIcg1@h0]73
+!s100 G4XWBkJ<_NfEQIOE4oUfg0
+R6
+32
+!s110 1635670135
+!i10b 1
+!s108 1635670135.000000
+Z101 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Polito/Switching technologies for data center/lab1/5/serial_tb.vhd|
+Z102 !s107 C:/Polito/Switching technologies for data center/lab1/5/serial_tb.vhd|
+!i113 1
+R11
+R12
+Eserial
+Z103 w1636309691
+R30
+R1
+R2
+R3
+Z104 8C:/Polito/Switching technologies for data center/lab1/5/serial.vhd
+Z105 FC:/Polito/Switching technologies for data center/lab1/5/serial.vhd
+l0
+L5
+V6VBa?9gRUR1RW>OBz1om^2
+!s100 ?ET<8RQlWLIN0jTRiiQ1;3
+R6
+32
+Z106 !s110 1636366157
+!i10b 1
+Z107 !s108 1636366157.000000
+Z108 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Polito/Switching technologies for data center/lab1/5/serial.vhd|
+Z109 !s107 C:/Polito/Switching technologies for data center/lab1/5/serial.vhd|
+!i113 1
+R11
+R12
+Abeh
+R30
+R1
+R2
+DEx4 work 6 serial 0 22 6VBa?9gRUR1RW>OBz1om^2
+l49
+L20
+VM44UT>L6G;o`bGBXoQGXP1
+!s100 dM=alPBV^>[DZzXOiIi7g0
+R6
+32
+R106
+!i10b 1
+R107
+R108
+R109
+!i113 1
+R11
+R12
+Eserial_tb
+Z110 w1636023165
+R1
+R2
+R3
+R99
+R100
+l0
+L4
+V1aVb7[AGO]Wk<ieIQC2560
+!s100 U`<3Q4kLCHonimZ0`ACJB0
+R6
+32
+R106
+!i10b 1
+R107
+R101
+R102
+!i113 1
+R11
+R12
+Atest
+R1
+R2
+DEx4 work 9 serial_tb 0 22 1aVb7[AGO]Wk<ieIQC2560
+l24
+L8
+V8`33oioe;lQB3bkU?YTbL3
+!s100 30>a5X>coLUAlNbQ5eMWB0
+R6
+32
+R106
+!i10b 1
+R107
+R101
+R102
+!i113 1
+R11
+R12
+Eserializer
+Z111 w1639090001
+R30
+R1
+R2
+R3
+Z112 8C:/Polito/Switching technologies for data center/lab1/5/SERIALIZER.vhd
+Z113 FC:/Polito/Switching technologies for data center/lab1/5/SERIALIZER.vhd
+l0
+L7
+VIHa^eT6;:YI>2MGKaJP_<0
+!s100 Td>1L>@z6oMmGnOYYhCO33
+R6
+32
+Z114 !s110 1639757321
+!i10b 1
+Z115 !s108 1639757321.000000
+Z116 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Polito/Switching technologies for data center/lab1/5/SERIALIZER.vhd|
+Z117 !s107 C:/Polito/Switching technologies for data center/lab1/5/SERIALIZER.vhd|
+!i113 1
+R11
+R12
+Abeh
+R30
+R1
+R2
+Z118 DEx4 work 10 serializer 0 22 IHa^eT6;:YI>2MGKaJP_<0
+l41
+L18
+Z119 VEBD7N]?geMOP8=Qh]d@G]2
+Z120 !s100 XZ=V@eiDAM6TQ^>3E[_Tl2
+R6
+32
+R114
+!i10b 1
+R115
+R116
+R117
+!i113 1
+R11
+R12
+Eserializer_ctrl
+Z121 w1639145109
+R1
+R2
+R3
+Z122 8C:/Polito/Switching technologies for data center/lab3/serializer_ctrl.vhd
+Z123 FC:/Polito/Switching technologies for data center/lab3/serializer_ctrl.vhd
+l0
+L5
+VV@P_GUXdd;2Go7IGI`60<1
+!s100 f9J>@8L6khDE:7?l;=]cm2
+R6
+32
+R25
+!i10b 1
+R8
+Z124 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Polito/Switching technologies for data center/lab3/serializer_ctrl.vhd|
+Z125 !s107 C:/Polito/Switching technologies for data center/lab3/serializer_ctrl.vhd|
+!i113 1
+R11
+R12
+Abeh
+R1
+R2
+DEx4 work 15 serializer_ctrl 0 22 V@P_GUXdd;2Go7IGI`60<1
+l24
+L17
+V>G`hQ=OVc=KHZ2fN07eJd2
+!s100 NHQ889RXc=k[elZLk2A7:1
+R6
+32
+R25
+!i10b 1
+R8
+R124
+R125
+!i113 1
+R11
+R12
+Eserializer_tb
+Z126 w1639089995
+R1
+R2
+R3
+Z127 8C:/Polito/Switching technologies for data center/lab1/5/serializer_tb.vhd
+Z128 FC:/Polito/Switching technologies for data center/lab1/5/serializer_tb.vhd
+l0
+L4
+VZ698hiR;Rg9hT1ZFHma==3
+!s100 gKXLY8mid_zS3Y92X`2Mi0
+R6
+32
+R114
+!i10b 1
+Z129 !s108 1639757320.000000
+Z130 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Polito/Switching technologies for data center/lab1/5/serializer_tb.vhd|
+Z131 !s107 C:/Polito/Switching technologies for data center/lab1/5/serializer_tb.vhd|
+!i113 1
+R11
+R12
+Abeh
+R1
+R2
+DEx4 work 13 serializer_tb 0 22 Z698hiR;Rg9hT1ZFHma==3
+l24
+L8
+VlZFbCE2hgojDe0h5kb>;`1
+!s100 :Ea[>hQCEH_^V>4Ujb0n73
+R6
+32
+R114
+!i10b 1
+R129
+R130
+R131
+!i113 1
+R11
+R12
+Etop
+Z132 w1638873348
+R1
+R2
+R3
+Z133 8C:/Polito/Switching technologies for data center/LAB2/VHDL/TOP.vhd
+Z134 FC:/Polito/Switching technologies for data center/LAB2/VHDL/TOP.vhd
+l0
+L6
+V^WM:685dKEHOFV4Znla4z0
+!s100 ][AI>mjQm3WUBR?B;O4]e3
+R6
+32
+Z135 !s110 1639149394
+!i10b 1
+R55
+Z136 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Polito/Switching technologies for data center/LAB2/VHDL/TOP.vhd|
+Z137 !s107 C:/Polito/Switching technologies for data center/LAB2/VHDL/TOP.vhd|
+!i113 1
+R11
+R12
+Abeh
+R1
+R2
+DEx4 work 3 top 0 22 ^WM:685dKEHOFV4Znla4z0
+l60
+L16
+VGJb@oT[Oii[7nQ`3?TjjM3
+!s100 Cd4F452celReQkNV1=[[O1
+R6
+32
+R135
+!i10b 1
+R55
+R136
+R137
+!i113 1
+R11
+R12
+Etop_tb
+Z138 w1639149035
+R1
+R2
+R3
+Z139 8C:/Polito/Switching technologies for data center/LAB2/VHDL/TOP_tb.vhd
+Z140 FC:/Polito/Switching technologies for data center/LAB2/VHDL/TOP_tb.vhd
+l0
+L5
+V5iNMmQeMCL6`JPH3eO7YK2
+!s100 ?EL<_TWdMVcS;<?DMVcPz3
+R6
+32
+R135
+!i10b 1
+R55
+Z141 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Polito/Switching technologies for data center/LAB2/VHDL/TOP_tb.vhd|
+Z142 !s107 C:/Polito/Switching technologies for data center/LAB2/VHDL/TOP_tb.vhd|
+!i113 1
+R11
+R12
+Atest
+R1
+R2
+DEx4 work 6 top_tb 0 22 5iNMmQeMCL6`JPH3eO7YK2
+l30
+L9
+VmU[2IWg=?70@I0WD>l2GE0
+!s100 4fMN[<RAf3J9R6377SXQC2
+R6
+32
+R135
+!i10b 1
+R55
+R141
+R142
+!i113 1
+R11
+R12

@@ -1,0 +1,115 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Polito/Switching technologies for data center/lab1/3
+Emux_4way
+Z1 w1635613121
+Z2 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z3 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z6 8C:/Polito/Switching technologies for data center/lab1/3/MUX_4WAY.vhd
+Z7 FC:/Polito/Switching technologies for data center/lab1/3/MUX_4WAY.vhd
+l0
+L5
+Va@2135dCBSBo1[nM<mHWY2
+!s100 _h@nIOQZJ?nM9WPTgDGzE1
+Z8 OV;C;10.5b;63
+32
+Z9 !s110 1635613602
+!i10b 1
+Z10 !s108 1635613602.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Polito/Switching technologies for data center/lab1/3/MUX_4WAY.vhd|
+Z12 !s107 C:/Polito/Switching technologies for data center/lab1/3/MUX_4WAY.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1 CvgOpt 0
+Abeh
+R2
+R3
+R4
+R5
+Z15 DEx4 work 8 mux_4way 0 22 a@2135dCBSBo1[nM<mHWY2
+l19
+L14
+Vo0]UPhH91^W9Ij?e1R1Ad2
+!s100 F4Y;ePZUMA::PDi]UO5Gd3
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Atest
+w1635612863
+R2
+R3
+R4
+R5
+R15
+Z16 8C:/Polito/Switching technologies for data center/lab1/3/MUX_4WAY_tb.vhd
+Z17 FC:/Polito/Switching technologies for data center/lab1/3/MUX_4WAY_tb.vhd
+l26
+L9
+VfLkShg?HNz3CfP]@bg4co3
+!s100 dN?o3<9ki2j]C_IH16dlG3
+R8
+32
+!s110 1635612870
+!i10b 1
+!s108 1635612870.000000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Polito/Switching technologies for data center/lab1/3/MUX_4WAY_tb.vhd|
+!s107 C:/Polito/Switching technologies for data center/lab1/3/MUX_4WAY_tb.vhd|
+!i113 1
+R13
+R14
+Emux_4way_tb
+Z19 w1635613581
+R4
+R5
+R0
+R16
+R17
+l0
+L4
+VCE18dfLhLgc5fH3gXbQg53
+!s100 2Yza4F66@4THNE[SSY0K?2
+R8
+32
+R9
+!i10b 1
+R10
+R18
+Z20 !s107 C:/Polito/Switching technologies for data center/lab1/3/MUX_4WAY_tb.vhd|
+!i113 1
+R13
+R14
+Atest
+R4
+R5
+DEx4 work 11 mux_4way_tb 0 22 CE18dfLhLgc5fH3gXbQg53
+l26
+L9
+V=4nJQkX<ElOSLZ2iCh0e^1
+!s100 FcIfolngGPOGK_?YKG4VI0
+R8
+32
+R9
+!i10b 1
+R10
+R18
+R20
+!i113 1
+R13
+R14

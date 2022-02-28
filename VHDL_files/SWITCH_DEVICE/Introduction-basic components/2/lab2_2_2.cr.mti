@@ -1,0 +1,19 @@
+{C:/Polito/Switching technologies for data center/lab1/2.2/FULL_ADDER_2.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Polito/Switching technologies for data center/lab1/2.2/FULL_ADDER_2.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity Full_ADDER_2
+-- Compiling architecture beh of FULL_ADDER_2
+
+} {} {}} {C:/Polito/Switching technologies for data center/lab1/2.2/FULL_ADDER_tb_2.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Polito/Switching technologies for data center/lab1/2.2/FULL_ADDER_tb_2.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity FULL_ADDER_TB_2
+-- Compiling architecture TEST of FULL_ADDER_TB_2
+
+} {} {}}

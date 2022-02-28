@@ -1,0 +1,32 @@
+{C:/Polito/Switching technologies for data center/lab1/5/deserializer.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Polito/Switching technologies for data center/lab1/5/deserializer.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity deserializer
+-- Compiling architecture beh of deserializer
+
+} {} {}} {C:/Polito/Switching technologies for data center/lab1/5/serializer_tb.vhd} {2 {vcom -work work -2002 -explicit -stats=none {C:/Polito/Switching technologies for data center/lab1/5/serializer_tb.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity serializer_tb
+-- Compiling architecture beh of serializer_tb
+** Warning: C:/Polito/Switching technologies for data center/lab1/5/serializer_tb.vhd(43): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Polito/Switching technologies for data center/lab1/5/serializer_tb.vhd(57): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Polito/Switching technologies for data center/lab1/5/serializer_tb.vhd(71): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Polito/Switching technologies for data center/lab1/5/serializer_tb.vhd(84): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Polito/Switching technologies for data center/lab1/5/serializer_tb.vhd(98): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} {C:/Polito/Switching technologies for data center/lab1/5/one_REG.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Polito/Switching technologies for data center/lab1/5/one_REG.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity one_REG
+-- Compiling architecture beh of one_REG
+
+} {} {}}

@@ -1,0 +1,133 @@
+{C:/Polito/Switching technologies for data center/lab1/2/FULL_ADDER.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Polito/Switching technologies for data center/lab1/2/FULL_ADDER.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Full_ADDER
+-- Compiling architecture beh of FULL_ADDER
+
+} {} {}} {C:/Polito/Switching technologies for data center/lab1/5/SERIALIZER.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Polito/Switching technologies for data center/lab1/5/SERIALIZER.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity SERIALIZER
+-- Compiling architecture BEH of SERIALIZER
+
+} {} {}} {C:/Polito/Switching technologies for data center/lab1/5/MUX_2WAY.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Polito/Switching technologies for data center/lab1/5/MUX_2WAY.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity MUX_2WAY
+-- Compiling architecture beh of MUX_2WAY
+
+} {} {}} {C:/Polito/Switching technologies for data center/lab1/3/MUX_4WAY.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Polito/Switching technologies for data center/lab1/3/MUX_4WAY.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity MUX_4WAY
+-- Compiling architecture beh of MUX_4WAY
+
+} {} {}} {C:/Polito/Switching technologies for data center/lab1/2.2/FULL_ADDER_tb_2.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Polito/Switching technologies for data center/lab1/2.2/FULL_ADDER_tb_2.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity FULL_ADDER_TB_2
+-- Compiling architecture TEST of FULL_ADDER_TB_2
+
+} {} {}} {C:/Polito/Switching technologies for data center/lab1/5/one_REG.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Polito/Switching technologies for data center/lab1/5/one_REG.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity one_REG
+-- Compiling architecture beh of one_REG
+
+} {} {}} {C:/Polito/Switching technologies for data center/lab1/5/serializer_tb.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Polito/Switching technologies for data center/lab1/5/serializer_tb.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity serializer_tb
+-- Compiling architecture beh of serializer_tb
+
+} {} {}} {C:/Polito/Switching technologies for data center/lab1/2.2/FULL_ADDER_2.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Polito/Switching technologies for data center/lab1/2.2/FULL_ADDER_2.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity Full_ADDER_2
+-- Compiling architecture beh of FULL_ADDER_2
+
+} {} {}} {C:/Polito/Switching technologies for data center/lab1/5/deserializer_tb.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Polito/Switching technologies for data center/lab1/5/deserializer_tb.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity deserializer_tb
+-- Compiling architecture TEST of deserializer_tb
+
+} {} {}} {C:/Polito/Switching technologies for data center/lab1/3/MUX_4WAY_tb.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Polito/Switching technologies for data center/lab1/3/MUX_4WAY_tb.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity MUX_4WAY_tb
+-- Compiling architecture TEST of MUX_4WAY_tb
+
+} {} {}} {C:/Polito/Switching technologies for data center/lab1/4/REG_tb.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Polito/Switching technologies for data center/lab1/4/REG_tb.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity REG_TB
+-- Compiling architecture TEST of REG_TB
+
+} {} {}} {C:/Polito/Switching technologies for data center/lab1/5/deserializer.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Polito/Switching technologies for data center/lab1/5/deserializer.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity deserializer
+-- Compiling architecture beh of deserializer
+
+} {} {}} {C:/Polito/Switching technologies for data center/lab1/2/FULL_ADDER_tb.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Polito/Switching technologies for data center/lab1/2/FULL_ADDER_tb.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity FULL_ADDER_TB
+-- Compiling architecture TEST of FULL_ADDER_TB
+
+} {} {}} {C:/Polito/Switching technologies for data center/lab1/2/ADDER.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Polito/Switching technologies for data center/lab1/2/ADDER.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity ADDER
+-- Compiling architecture beh of ADDER
+
+} {} {}} {C:/Polito/Switching technologies for data center/lab1/4/REG.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Polito/Switching technologies for data center/lab1/4/REG.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity REG
+-- Compiling architecture beh of REG
+
+} {} {}}
